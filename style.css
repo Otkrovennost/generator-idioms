@@ -112,6 +112,11 @@ body {
     font-size: 18px;
   }
 
+  .content-block span {
+    width: 100%;
+    text-align: center;
+  }
+
   .generator-button { 
     width: 100%;
     font-size: 18px;
